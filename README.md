@@ -20,7 +20,7 @@ Run
 php composer.phar install
 ```
 
-Or update your composer.phar
+Or update your composer.json
 
 ```
 php composer.phar update
