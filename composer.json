@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-0": {
+            "": "lib/",
+            "Acme": "src/"
+        },
+        "files": [
+            "lib/helpers.php"
+        ]
+    }
+}
